@@ -21,5 +21,6 @@ public class IntegerValTest
 		// 以0开头的整数值是八进制的整数
 		int octalValue = 013;
 		System.out.println(octalValue);
+		
 	}
-}
+} 
